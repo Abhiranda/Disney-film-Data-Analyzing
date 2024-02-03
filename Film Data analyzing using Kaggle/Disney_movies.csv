@@ -1,0 +1,116 @@
+,movie_name,Produced by,Music by,Productioncompany,Running time,Country,Language,Budget(Milion),Box office(Milion),SuccessCategory
+0,Snow White and the Seven Dwarfs (1937 film),['Walt Disney'],"['Frank Churchill', 'Leigh Harline', 'Paul Smith']",['Walt Disney Productions'],['83 minutes'],['United States'],['English'],2.00,418.00,Flop
+1,Pinocchio (1940 film),['Walt Disney'],"['Leigh Harline', 'Ned Washington', 'Paul J. Smith']",['Walt Disney Productions'],['88 minutes'],['United States'],['English'],3.00,164.00,Flop
+2,Fantasia (1940 film),['Walt Disney'],['See plot'],['Walt Disney Productions'],['126 minutes[1]'],['United States'],['English'],2.00,84.00,Flop
+3,The Reluctant Dragon (1941 film),['Walt Disney'],"['Frank Churchill', 'Larry Morey']",['Walt Disney Productions'],['74 minutes'],['United States'],['English'],600000.00,960000.00,Mid
+4,Dumbo,['Walt Disney'],"['Frank Churchill', 'Oliver Wallace']",['Walt Disney Productions'],['64 minutes'],['United States'],['English'],950000.00,1.00,Flop
+5,Bambi,['Walt Disney'],"['Frank Churchill', 'Edward H. Plumb']",['Walt Disney Productions'],['70 minutes'],['United States'],['English'],858000.00,267.00,Flop
+6,Saludos Amigos,['Walt Disney'],"['Paul Smith', 'Edward H. Plumb']",['Walt Disney Productions'],['42 minutes'],['United States'],,788000.00,1.00,Flop
+7,Victory Through Air Power (film),['Walt Disney'],"['Edward H. Plumb', 'Paul J. Smith', 'Oliver Wallace']",['Walt Disney Productions'],['65 min'],['United States'],['English'],788000.00,799000.00,Mid
+8,The Three Caballeros,['Walt Disney'],"['Edward H. Plumb', 'Paul J. Smith', 'Charles Wolcott']",['Walt Disney Productions'],['71 minutes'],['United States'],,na,4.00,Flop
+9,Make Mine Music,"['Walt Disney', 'Joe Grant']","['Eliot Daniel', 'Ken Darby', 'Charles Wolcott', 'Oliver Wallace', 'Edward Plumb']",['Walt Disney Productions'],['75 minutes'],['United States'],['English'],1.00,4.00,Flop
+10,Song of the South,"['Walt Disney', 'Perce Pearce']","['Daniele Amfitheatrof', 'Paul J. Smith']",['Walt Disney Productions'],['94 minutes[1]'],['United States'],['English'],2.00,65.00,Flop
+11,Fun and Fancy Free,"['Walt Disney', 'Ben Sharpsteen']","['Oliver Wallace', 'Paul Smith', 'Eliot Daniel', 'Charles Wolcott']",['Walt Disney Productions'],['73 minutes'],['United States'],['English'],2.00,3.00,Flop
+12,Melody Time,"['Walt Disney', 'Ben Sharpsteen']","['Eliot Daniel', 'Paul J. Smith', 'Ken Darby']",['Walt Disney Productions'],['75 minutes'],['United States'],['English'],2.00,3.00,Flop
+13,So Dear to My Heart,"['Walt Disney', 'Perce Pearce']",['Paul Smith'],['Walt Disney Productions'],['82 minutes'],['United States'],['English'],2.00,4.00,Flop
+14,The Adventures of Ichabod and Mr. Toad,['Walt Disney'],['Oliver Wallace'],['Walt Disney Productions'],['68 minutes'],['United States'],['English'],na,2.00,Flop
+15,Cinderella (1950 film),"['Walt Disney', 'Ben Sharpsteen']","['Oliver Wallace', 'Paul Smith']",['Walt Disney Productions'],['74 minutes'],['United States'],['English'],2.00,182.00,Flop
+16,Treasure Island (1950 film),"['Walt Disney', 'Perce Pearce']",['Clifton Parker'],"['RKO-Walt Disney British Productions Limited', 'RKO-Walt Disney British Productions Limited[1]']",['96 minutes'],,['English'],2.00,4.00,Flop
+17,Alice in Wonderland (1951 film),['Walt Disney'],['Oliver Wallace'],['Walt Disney Productions'],['75 minutes'],['United States'],['English'],3.00,5.00,Flop
+18,The Story of Robin Hood (film),"['Perce Pearce', 'Walt Disney']",['Clifton Parker'],"['RKO-Walt Disney British Productions Limited', 'RKO-Walt Disney British Productions Limited[1][2]', 'RKO-Walt Disney British Productions Limited[1][2]']",['84 minutes'],,['English'],NaN,2.00,Flop
+19,Peter Pan (1953 film),['Walt Disney'],['Oliver Wallace'],['Walt Disney Productions'],['77 minutes'],['United States'],['English'],4.00,7.00,Flop
+20,The Sword and the Rose,"['Perce Pearce', 'Walt Disney']",['Clifton Parker'],"['RKO-Walt Disney British Productions Limited', 'RKO-Walt Disney British Productions Limited[1]']",['92 minutes'],,['English'],2.00,1.00,Flop
+21,The Living Desert,"['Ben Sharpsteen', 'Walt Disney']",['Paul J. Smith'],['Walt Disney Productions'],['69 minutes'],['United States'],['English'],3000000.00,3.00,Flop
+22,Rob Roy: The Highland Rogue,"['Perce Pearce', 'Walt Disney']",['Cedric Thorpe Davie'],"['RKO-Walt Disney British Productions', 'RKO-Walt Disney British Productions[1]']",['81 minutes'],,['English'],2.00,2.00,Flop
+23,The Vanishing Prairie,"['Ben Sharpsteen', 'Walt Disney']",['Paul J. Smith'],['Walt Disney Productions'],['60 minutes (VHS and Wild Discovery version)71 minutes (original)'],['United States'],['English'],NaN,2.00,Flop
+24,"20,000 Leagues Under the Sea (1954 film)",['Walt Disney'],['Paul Smith'],['Walt Disney Productions'],['127 minutes'],['United States'],['English'],5.00,28.00,Flop
+25,Davy Crockett: King of the Wild Frontier (film),['Bill Walsh'],"['George Bruns', 'Edward H. Plumb']",['Walt Disney Productions'],['93 minutes'],['United States'],['English'],NaN,2150000.00,Hit
+26,Lady and the Tramp,['Walt Disney'],['Oliver Wallace'],['Walt Disney Productions'],['76 minutes'],['United States'],['English'],4.00,187.00,Flop
+27,The African Lion,"['Walt Disney', 'Ben Sharpsteen']",['Paul J. Smith'],['Walt Disney Productions'],['75 minutes'],['United States'],['English'],NaN,2.00,Flop
+28,The Littlest Outlaw,,['William Lava'],['Walt Disney Productions'],['73 minutes'],,,NaN,2.00,Flop
+29,The Great Locomotive Chase,['Walt Disney'],['Paul J. Smith'],['Walt Disney Productions'],['85 minutes'],['United States'],['English'],NaN,2.00,Flop
+30,Davy Crockett and the River Pirates,['Bill Walsh'],"['George Bruns', 'Edward H. Plumb']",['Walt Disney Productions'],['81 minutes'],['United States'],['English'],NaN,NaN,Hit
+31,Secrets of Life,"['Ben Sharpsteen', 'Walt Disney']",['Paul Smith'],['Walt Disney Productions'],['70 minutes'],['United States'],['English'],NaN,NaN,Hit
+32,Westward Ho the Wagons!,['Bill Walsh'],['George Bruns'],['Walt Disney Productions'],['90 minutes'],['United States'],['English'],NaN,3.00,Flop
+33,Johnny Tremain (film),['Walt Disney'],['George Bruns'],['Walt Disney Productions'],['80 minutes'],['United States'],['English'],700000.00,NaN,Hit
+34,Perri (film),['Winston Hibler'],"['Paul J. Smith', 'George Bruns', 'Carl Brandt']",['Walt Disney Productions'],['75 minutes'],['United States'],['English'],NaN,2.00,Flop
+35,Old Yeller (film),['Walt Disney'],"['Oliver Wallace', 'Will Schaefer']",['Walt Disney Productions'],['84 minutes'],['United States'],['English'],NaN,6.00,Flop
+36,The Light in the Forest (film),['Walt Disney'],['Paul J. Smith'],['Walt Disney Productions'],['83 minutes'],['United States'],['English'],NaN,2.00,Flop
+37,White Wilderness (film),"['Ben Sharpsteen', 'Walt Disney']",['Oliver Wallace'],['Walt Disney Productions'],['72 minutes'],,['English'],NaN,2.00,Flop
+38,Tonka (film),['James C. Pratt'],['Oliver Wallace'],['Walt Disney Productions'],['97 minutes'],['United States'],['English'],NaN,3.00,Flop
+39,Sleeping Beauty (1959 film),['Walt Disney'],['George Bruns'],['Walt Disney Productions'],['75 minutes'],['United States'],['English'],6.00,52.00,Flop
+40,The Shaggy Dog (1959 film),['Walt Disney'],['Paul J. Smith'],['Walt Disney Productions'],['104 minutes'],['United States'],['English'],1250000.00,12.00,Flop
+41,Darby O'Gill and the Little People,"['Bill Anderson', 'Walt Disney']",['Oliver Wallace'],['Walt Disney Productions'],['93 minutes'],['United States'],['English'],NaN,10.00,Flop
+42,Third Man on the Mountain,"['Bill Anderson', 'Walt Disney']",['William Alwyn'],['Walt Disney Productions'],['105 minutes'],['United States'],['English'],2.00,1700000.00,Hit
+43,Toby Tyler or 10 Weeks with a Circus (film),['Bill Walsh'],"['Buddy Baker', 'Buddy Baker[1]']",['Walt Disney Productions'],['95 minutes'],['United States'],['English'],NaN,3100000.00,Hit
+44,Kidnapped (1960 film),['Walt Disney'],['Cedric Thorpe Davie'],['Walt Disney Productions'],['97 minutes'],['United States'],,NaN,4.00,Flop
+45,Pollyanna (1960 film),['Walt Disney'],['Paul Smith'],['Walt Disney Productions'],['134 minutes'],['United States'],['English'],3.00,4.00,Flop
+46,Jungle Cat (film),"['Ben Sharpsteen', 'Walt Disney']",['Oliver Wallace'],['Walt Disney Productions'],['69 minutes'],['United States'],['English'],NaN,2.00,Flop
+47,Ten Who Dared,"['Walt Disney', 'James Algar']",['Oliver Wallace'],['Walt Disney Productions'],['92 minutes'],['United States'],['English'],NaN,NaN,Hit
+48,Swiss Family Robinson (1960 film),"['Bill Anderson', 'Walt Disney']",['William Alwyn'],"['Walt Disney Productions', 'Walt Disney Productions[1]']",['126 minutes'],['United States'],['English'],4.00,40.00,Flop
+49,One Hundred and One Dalmatians,['Walt Disney'],['George Bruns'],['Walt Disney Productions'],['79 minutes'],['United States'],['English'],4.00,303.00,Flop
+50,The Absent-Minded Professor,['Walt Disney'],['George Bruns'],['Walt Disney Productions'],['97 minutes'],['United States'],['English'],NaN,25.00,Flop
+51,The Parent Trap (1961 film),['Walt Disney'],"['Richard M. Sherman', 'Robert B. Sherman', 'Paul Smith']",['Walt Disney Productions'],['128 minutes'],['United States'],['English'],NaN,25.00,Flop
+52,Nikki: Wild Dog of the North,['Winston Hibler'],['Oliver Wallace'],['Walt Disney Productions'],['73 minutes'],,['English'],NaN,2.00,Flop
+53,Greyfriars Bobby (film),['Walt Disney'],['Francis Chagrin'],['Walt Disney Productions'],['91 minutes'],['United States'],['English'],NaN,1.00,Flop
+54,Babes in Toyland (1961 film),['Walt Disney'],"['Victor Herbert', 'George Bruns', 'Mel Leven']",['Walt Disney Productions'],['105 minutes[1]'],['United States'],['English'],3.00,5.00,Flop
+55,Moon Pilot,['Walt Disney'],['Paul J. Smith'],['Walt Disney Productions'],['98 minutes'],['United States'],['English'],NaN,7.00,Flop
+56,Bon Voyage! (1962 film),['Walt Disney'],['Paul Smith'],['Walt Disney Productions'],['130 minutes'],['United States'],['English'],3.00,5.00,Flop
+57,Big Red (film),['Walt Disney'],"['Richard M. Sherman', 'Robert B. Sherman', 'Oliver Wallace']",['Walt Disney Productions'],['89 minutes'],,['English'],NaN,NaN,Hit
+58,Almost Angels,['Walt Disney'],['Heinz Schreiter'],['Walt Disney Productions'],['93 minutes'],['United States'],['English'],NaN,NaN,Hit
+59,The Legend of Lobo,['Walt Disney'],"['Oliver Wallace', 'Richard M. Sherman', 'Robert B. Sherman', 'Sons of the Pioneers']",['Walt Disney Productions'],['67 minutes'],['United States'],['English'],NaN,NaN,Hit
+60,In Search of the Castaways (film),['Walt Disney'],"['Morton Gould', 'Van Cleave', 'Jack Shaindlin', 'Richard M. Sherman', 'Robert B. Sherman']",['Walt Disney Productions'],['98 minutes'],['United States'],['English'],NaN,21745200.00,Hit
+61,Son of Flubber,['Walt Disney'],['George Bruns'],['Walt Disney Productions'],['100 minutes'],['United States'],['English'],NaN,221.00,Flop
+62,Miracle of the White Stallions,"['Ron Miller', 'Walt Disney']",['Paul J. Smith'],['Walt Disney Productions'],['118 minutes'],['United States'],['English'],NaN,255000.00,Flop
+63,Savage Sam (film),['Bill Anderson'],['Oliver Wallace'],['Walt Disney Productions'],['103 minutes'],['United States'],['English'],NaN,3000000.00,Hit
+64,Summer Magic (film),"['Walt Disney', 'Ron Miller']","['Richard M. Sherman', 'Robert B. Sherman', 'Buddy Baker']",['Walt Disney Productions'],['110 minutes'],['United States'],['English'],NaN,4350000.00,Hit
+65,The Incredible Journey (film),['Walt Disney'],['Oliver Wallace'],['Walt Disney Productions'],['80 min.'],,['English'],NaN,4.00,Flop
+66,The Sword in the Stone (1963 film),['Walt Disney'],['George Bruns'],['Walt Disney Productions'],['79 minutes'],['United States'],['English'],3.00,2.00,Flop
+67,A Tiger Walks,['Bill Anderson'],['Buddy Baker'],['Walt Disney Productions'],['91 minutes'],['United States'],['English'],NaN,1600000.00,Hit
+68,The Missadventures of Merlin Jones,"['Walt Disney', 'Ron Miller']",['Buddy Baker'],['Walt Disney Productions'],['91 minutes'],['United States'],['English'],NaN,4000000.00,Hit
+69,The Three Lives of Thomasina,"['Ron Miller', 'Walt Disney']",['Paul J. Smith'],['Walt Disney Productions'],['97 minutes'],,,NaN,2250000.00,Hit
+70,The Moon-Spinners,"['Walt Disney', 'Bill Anderson']",['Ron Grainer'],['Walt Disney Productions'],['118 minutes'],,['English'],NaN,3500000.00,Hit
+71,Mary Poppins (film),['Walt Disney'],"['Richard M. Sherman', 'Robert B. Sherman']",['Walt Disney Productions'],['139 minutes[4]'],['United States'],['English'],5.00,103.00,Flop
+72,Those Calloways,,['Max Steiner'],['Walt Disney Productions'],['131 mins.'],['United States'],['English'],NaN,3500000.00,Hit
+73,Emil and the Detectives (1964 film),['Walt Disney'],['Heinz Schreiter'],['Walt Disney Productions'],['92 minutes'],['United States'],['English'],NaN,1275000.00,Hit
+74,The Monkey's Uncle,"['Ron Miller', 'Walt Disney']",['Buddy Baker'],['Walt Disney Productions'],['87 minutes'],['United States'],['English'],NaN,400000.00,Flop
+75,That Darn Cat!,"['Walt Disney', 'Ron W. Miller']",['Robert F. Brunner'],['Walt Disney Productions'],['116 minutes'],['United States'],['English'],NaN,28068222.00,Hit
+76,The Ugly Dachshund,"['Walt Disney', 'Winston Hibler']",['George Bruns'],['Walt Disney Productions'],['93 minutes'],['United States'],['English'],NaN,6.00,Flop
+77,"Lt. Robin Crusoe, U.S.N.",['Ron W. Miller'],['Robert F. Brunner'],['Walt Disney Productions'],['114 minutes'],['United States'],['English'],NaN,2200000.00,Hit
+78,The Fighting Prince of Donegal,['Walt Disney'],['George Bruns'],['Walt Disney Productions'],['110 minutes'],,['English'],NaN,NaN,Hit
+79,"Follow Me, Boys!","['Walt Disney', 'Winston Hibler']","['George Bruns', 'Richard M. Sherman', 'Robert B. Sherman']",['Walt Disney Productions'],['131 minutes'],['United States'],['English'],NaN,16107000.00,Hit
+80,"Monkeys, Go Home!",['Walt Disney'],['Robert F. Brunner'],['Walt Disney Productions'],['101 minutes'],['United States'],['English'],NaN,3000000.00,Hit
+81,The Adventures of Bullwhip Griffin,"['Walt Disney', 'Walt Disney[1]']","['Richard M. Sherman', 'Robert B. Sherman', 'Mel Leven', 'George Bruns']",['Walt Disney Productions'],['110 minutes'],['United States'],['English'],NaN,1900000.00,Hit
+82,The Gnome-Mobile,"['James Algar', 'Walt Disney']",['Buddy Baker'],['Walt Disney Productions'],['84 minutes'],['United States'],['English'],NaN,4000000.00,Hit
+83,The Jungle Book (1967 film),['Walt Disney'],['George Bruns'],['Walt Disney Productions'],['78 minutes'],['United States'],['English'],4.00,378.00,Flop
+84,"Charlie, the Lonesome Cougar","['Walt Disney', 'Charles L. Draper']",['Franklyn Marks'],['Walt Disney Productions'],['75 minutes'],['United States'],['English'],NaN,NaN,Hit
+85,The Happiest Millionaire,"['Walt Disney', 'Bill Anderson']",['Jack Elliott'],['Walt Disney Productions'],"['Los Angeles', 'New York City', ""Director's cut""]",['United States'],['English'],5.00,5.00,Flop
+86,Blackbeard's Ghost,['Bill Walsh'],['Robert F. Brunner'],['Walt Disney Productions'],['106 minutes'],['United States'],['English'],NaN,24510000.00,Hit
+87,"The One and Only, Genuine, Original Family Band",['Bill Anderson'],"['Richard M. Sherman', 'Robert B. Sherman', 'Jack Elliott']",['Walt Disney Productions'],['110 minutes'],['United States'],['English'],NaN,2250000.00,Hit
+88,Never a Dull Moment (1968 film),['Ron Miller'],['Robert F. Brunner'],['Walt Disney Productions'],['99 minutes'],['United States'],['English'],NaN,4150000.00,Hit
+89,The Horse in the Gray Flannel Suit,['Winston Hibler'],['George Bruns'],['Walt Disney Productions'],['113 mins.'],['United States'],['English'],NaN,3.00,Flop
+90,The Love Bug,['Bill Walsh'],['George Bruns'],['Walt Disney Productions'],['108 minutes'],['United States'],['English'],5.00,51.00,Flop
+91,Smith!,['Bill Anderson'],['Robert F. Brunner'],['Walt Disney Productions'],['102 minutes'],['United States'],['English'],NaN,1.00,Flop
+92,Rascal (film),['James Algar'],['Buddy Baker'],['Walt Disney Productions'],['85 minutes'],['United States'],['English'],NaN,NaN,Hit
+93,The Computer Wore Tennis Shoes,['Bill Anderson'],['Robert F. Brunner'],['Walt Disney Productions'],['91 minutes'],['United States'],['English'],NaN,6.00,Flop
+94,King of the Grizzlies,['Winston Hibler'],['Buddy Baker'],"['Walt Disney Productions', 'Robert Lawrence Productions']",['93 minutes'],,['English'],NaN,NaN,Hit
+95,The Boatniks,['Ron Miller'],['Bruce Belland'],['Walt Disney Productions'],['100 minutes'],['United States'],['English'],NaN,18607000.00,Hit
+96,The Wild Country,['Ron Miller'],['Robert F. Brunner'],['Walt Disney Productions'],['100 minutes'],['United States'],['English'],NaN,4.00,Flop
+97,The Aristocats,['Winston Hibler'],['George Bruns'],['Walt Disney Productions'],['79 minutes'],['United States'],['English'],4.00,191.00,Flop
+98,The Barefoot Executive,['Bill Anderson'],"['Franklyn Marks', 'Bruce Belland']",['Walt Disney Productions'],['96 minutes'],['United States'],['English'],NaN,NaN,Hit
+99,Scandalous John,['Bill Walsh'],['Rod McKuen'],['Walt Disney Productions'],['113 minutes'],['United States'],['English'],NaN,NaN,Hit
+100,The Million Dollar Duck,['Bill Anderson'],['Buddy Baker'],['Walt Disney Productions'],['89 minutes'],['United States'],['English'],NaN,5.00,Flop
+101,Bedknobs and Broomsticks,['Bill Walsh'],['Irwin Kostal'],['Walt Disney Productions'],['118 minutes (1971 original version)139 minutes (1996 reconstruction version)'],"['United States[1][2]', 'United States[1][2]']",['English'],6.00,18.00,Flop
+102,The Biscuit Eater (1972 film),['Bill Anderson'],['Robert F. Brunner'],['Walt Disney Productions'],['92 minutes'],['United States'],['English'],NaN,NaN,Hit
+103,"Now You See Him, Now You Don't",['Ron Miller'],['Robert F. Brunner'],['Walt Disney Productions'],['88 minutes'],['United States'],['English'],NaN,4106000.00,Hit
+104,Napoleon and Samantha,['Winston Hibler'],['Buddy Baker'],['Walt Disney Productions'],['92 minutes'],['United States'],['English'],NaN,NaN,Hit
+105,"Run, Cougar, Run",['James Algar'],['Buddy Baker'],['Walt Disney Productions'],['87 minutes'],['United States'],['English'],NaN,NaN,Hit
+106,Snowball Express,['Ron Miller'],['Evelyn Kennedy'],['Walt Disney Productions'],['93 minutes'],['United States'],['English'],NaN,6100000.00,Hit
+107,The World's Greatest Athlete,['Bill Walsh'],['Marvin Hamlisch'],['Walt Disney Productions'],['93 minutes'],['United States'],['English'],NaN,22583000.00,Hit
+108,Charley and the Angel,['Bill Anderson'],"['Paul J. Smith', 'Buddy Baker']",['Walt Disney Productions'],['93 minutes'],['United States'],['English'],NaN,NaN,Hit
+109,One Little Indian (film),['Winston Hibler'],['Jerry Goldsmith'],['Walt Disney Productions'],['90 Minutes'],['United States'],['English[1]'],NaN,2.00,Flop
+110,Robin Hood (1973 film),['Wolfgang Reitherman'],['George Bruns'],['Walt Disney Productions'],['83 minutes'],['United States'],['English'],5.00,33.00,Flop
+111,Superdad,['Bill Anderson'],['Buddy Baker'],['Walt Disney Productions'],['96 minutes'],['United States'],['English'],NaN,7.00,Flop
+112,Herbie Rides Again,['Bill Walsh'],['George Bruns'],['Walt Disney Productions'],['88 minutes'],['United States'],['English'],NaN,38.00,Flop
+113,The Bears and I,['Winston Hibler'],['Buddy Baker'],['Walt Disney Productions'],['89 minutes'],['United States'],['English'],NaN,4.00,Flop
+114,The Castaway Cowboy,"['Ron Miller', 'Winston Hibler']",['Robert F. Brunner'],['Walt Disney Productions'],['91 minutes'],['United States'],['English'],NaN,NaN,Hit
